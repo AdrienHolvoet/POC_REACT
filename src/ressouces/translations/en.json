@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "fr": "French",
+    "en": "English",
+
+    "todolist": "To Do List",
+    "key": "item",
+    "key_plural": "items",
+
+    "keyWithCount": "{{count}} item",
+    "keyWithCount_plural": "{{count}} items"
+  }
+}
